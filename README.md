@@ -1,5 +1,6 @@
 # ToDo-List
 Ini adalah aplikasi sederhana pertama saya dan merupakan bagian dari tugas day 5 week 2 dan 5.
+Link : https://triyanarief.github.io/ToDo-List/
 
 # About App
 Sederhananya ini adalah aplikasi untuk anda yang memiliki jadwal yang padat dengan segudang kesibukan, maka sangat penting untuk membuat daftar apa saja yang harus Anda kerjakan setiap harinya agar kerjaan Anda lebih baik dan terorganisir. Dengan cara seperti ini, Anda bisa mengatur pekerjaan Anda dengan lebih baik dan mendapatkan hasil yang lebih maksimal.
